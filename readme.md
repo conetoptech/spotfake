@@ -1,12 +1,14 @@
-!Please Dont use this tool to harm anyone!,This tool is just for fun purpose only!
+Warning: Please use this tool responsibly! It’s intended for fun only.
 
-link:- https://conetoptech.github.io/spotfake/
+Visit: [SpotFake](https://conetoptech.github.io/spotfake/)
 
-open in incognito tab or clear apps data to exit from loop
-develop is not responsibe for the damage made,Try at your own risk!
+To exit the loop:
 
-Turn on pop-up to see the effects!
+Open in an incognito tab or clear app data.
+The developer is not responsible for any issues that may arise. Use at your own risk!
+For best experience:
 
-
-Press ctrl+W TO Exit!
-Have Fun!!
+Enable pop-ups to see the effects!
+Press Ctrl + W to exit (PC).
+On smartphones, tap the Home button located in the URL field.
+Enjoy!
