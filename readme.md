@@ -1,6 +1,8 @@
 Warning: Please use this tool responsibly! It’s intended for fun only.
 
-Visit: [SpotFake](https://conetoptech.github.io/spotfake/)
+Copy and send: [SpotFake](https://conetoptech.github.io/spotfake/)
+
+https://conetoptech.github.io/spotfake/
 
 To exit the loop:
 
